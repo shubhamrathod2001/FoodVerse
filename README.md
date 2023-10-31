@@ -13,3 +13,8 @@ One of the most important part of our day is our meal, that's why this web app e
 - [x] Payment Gateway
 - [x] Login/Signup Page
 - [x] Order tracking
+
+## Built Using :-
+- React and Bootstrap for frontend UI
+- Backend is handled by Express and Node
+- MongoDB database
